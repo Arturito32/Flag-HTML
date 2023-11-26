@@ -1,0 +1,52 @@
+
+
+
+body{
+background-color: brown;
+}
+.Dominicanflag >img{
+    
+    width: 100px;
+    position: absolute;
+    left: 400px;
+    top: 150px;
+}
+
+.Dominicanflag{
+    background-color: #FFFFFF;
+    width: 900px;
+    height: 400px;
+    left: 100px;
+    position: relative;
+    }
+    
+    div.upperredpart{
+        background-color: #CE1126;
+        height: 40%;
+        width: 400px;
+        position: relative;
+        }
+    div.lowerredpart{
+        background-color: #CE1126;
+        height: 40%;
+            width: 400px;
+            top: 80px;
+            position: relative;
+        }
+     div.upperbluepart{
+        background-color: #002D62;
+        height: 40%;
+        width: 400px;
+        left: 500px;
+
+        top: 240px;
+        position:absolute ;
+        }
+        div.lowerbluepart{
+            background-color: #002D62;
+            height: 40%;
+            width: 400px;
+            left: 500px;
+            bottom: 320px;
+            position: relative;
+            }
